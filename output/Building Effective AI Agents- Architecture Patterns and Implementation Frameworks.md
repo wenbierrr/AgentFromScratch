@@ -1,0 +1,1 @@
+I have summarized the file 'input\Building Effective AI Agents- Architecture Patterns and Implementation Frameworks.pdf' and saved it to Notion with the title 'Building Effective AI Agents- Architecture Patterns and Implementation Frameworks'.
